@@ -1,5 +1,10 @@
-### Hi there 👋
+<span align="center">
+  
+  ### Hi there, Welcome to my Github! 👋
+  <br/>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuraziraAhmad&layout=compact)](https://github.com/NuraziraAhmad)
+</span>
 <!--
 **NuraziraAhmad/NuraziraAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
